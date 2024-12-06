@@ -36,7 +36,7 @@ This repository contains tools and scripts for analyzing data related to the Mar
    - [2020-Marsden-Fund-announcement-supplement_corrected.xlsx](https://www.royalsociety.org.nz/assets/2020-Marsden-Fund-announcement-supplement_corrected.xlsx)
    - [2019-Marsden-Fund-awarded-supplement_with-websheet-v2.xlsx](https://www.royalsociety.org.nz/assets/2019-Marsden-Fund-awarded-supplement_with-websheet-v2.xlsx)
    - [Marsden-2018-annoucement-supplement.xlsx](https://www.royalsociety.org.nz/assets/Uploads/Marsden-2018-annoucement-supplement.xlsx)
-   - [Marsden-2017-annoucement-supplement-v2.xlsx](sandbox:/mnt/data/Marsden-2017-annoucement-supplement-v2.xlsx)
+   - [Marsden-2017-annoucement-supplement-v2.xlsx](https://www.royalsociety.org.nz/assets/Uploads/Marsden-2017-annoucement-supplement-v2.xlsx)
    - [Marsden-2016-annoucement-supplement.xlsx](https://www.royalsociety.org.nz/assets/documents/Marsden-2016-annoucement-supplement.xlsx)
    - [Marsden-Announcements-2008-2017.xlsx](https://www.royalsociety.org.nz/assets/Uploads/Marsden-Announcements-2008-2017.xlsx)
 
