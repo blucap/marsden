@@ -50,7 +50,7 @@ This repository contains tools and scripts for analyzing data related to the Mar
    jupyter notebook marsden.ipynb
    ```
 
-5. Make sure to to set the project directory in the lines that mention `os.chdir`.
+5. Make sure to to set the project directory in the lines that mention **`os.chdir`.**
 
 5. Run the notebook cells sequentially to process the data and generate visualizations.
 
@@ -76,9 +76,8 @@ This repository contains tools and scripts for analyzing data related to the Mar
 - **Bar Charts**: Funding by institution, panel, and more.
 - **Line Charts**: Normalized funding trends by panel.
 - **Word Clouds**: Top terms from research summaries.
-- **Data Files**: `marsden_projects.csv`, `marsden_teams.csv`
+- **Data Files**: **`marsden_projects.csv`, `marsden_teams.csv`**
 
 ## Contributions
 
 Feel free to open issues, submit pull requests, or suggest improvements to the repository.
-# marsden
